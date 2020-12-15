@@ -13,7 +13,7 @@ This project was done on behalf of the Zachary Leadership Program (ZLP) at Texas
 - [Demo Site](https://protected-forest-33941.herokuapp.com/)
 
 ## My contribution
-- Created cucumber tests for lagacy code
+- Created cucumber tests for legacy code
 - Collborated with others and increased the test coverage from `0` to `62.1%`
 - Integrated SendGrid to send email to the students
 - Refined the user login and registration UI
