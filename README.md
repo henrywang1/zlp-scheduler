@@ -1,7 +1,7 @@
 # zlp-scheduler
 
 This fork is created for demo purpose.
-The main repository could be find [here](https://github.com/tamu-zlp/zlp-scheduler).
+The main repository could be found [here](https://github.com/tamu-zlp/zlp-scheduler).
 
 ## Project Description
 
@@ -14,13 +14,13 @@ This project was done on behalf of the Zachary Leadership Program (ZLP) at Texas
 
 ## My contribution
 - Created cucumber tests for legacy code
-- Collborated with others and increased the test coverage from `0` to `62.1%`
+- Collaborated with others and increased the test coverage from `0` to `62.1%`
 - Integrated SendGrid to send email to the students
 - Refined the user login and registration UI
 - Fixed several bugs
-  * A user can reset his password before claiming account
+  * A user can reset his password before claiming an account
   * A user can claim his account multiple times
-  * A user can use weak password
+  * A user can use a weak password
   * A user can claim his account when password confirmation is incorrect
   * A user does not see any error message when the form submission has errors and is not saved
   
